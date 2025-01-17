@@ -6,7 +6,7 @@ Python samples for [Google Cloud Platform products][cloud].
 
 ## Google Cloud Samples
 
-Check out some of the samples found on this repository on the [Google Cloud Samples](https://cloud.google.com/docs/samples?l=python) page.
+Check out some of the samples found on this repository on the [Google Cloud Samples](https:/AlipMagical/cloud.google.com/docs/samples?l=python) page.
 
 ## Setup
 
@@ -15,7 +15,7 @@ Check out some of the samples found on this repository on the [Google Cloud Samp
 1. Clone this repository:
 
     ```
-    git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+    git clone https:/AlipMagical/github.com/GoogleCloudPlatform/python-docs-samples.git
     ```
 
 1. Obtain authentication credentials.
@@ -60,20 +60,20 @@ Check out some of the samples found on this repository on the [Google Cloud Samp
 
 Contributions welcome! See the [Contributing Guide](CONTRIBUTING.md).
 
-[slack_badge]: https://img.shields.io/badge/slack-Google%20Cloud%20Platform-E01563.svg	
-[slack_link]: https://googlecloud-community.slack.com/
-[cloud]: https://cloud.google.com/
-[cloud_python_setup]: https://cloud.google.com/python/setup
-[auth_command]: https://cloud.google.com/sdk/gcloud/reference/beta/auth/application-default/login
-[gcp_auth]: https://cloud.google.com/docs/authentication#projects_and_resources
+[slack_badge]: https:/AlipMagical/img.shields.io/badge/slack-Google%20Cloud%20Platform-E01563.svg	
+[slack_link]: https:/AlipMagical/googlecloud-community.slack.com/
+[cloud]: https:/AlipMagical/cloud.google.com/
+[cloud_python_setup]: https:/AlipMagical/cloud.google.com/python/setup
+[auth_command]: https:/AlipMagical/cloud.google.com/sdk/gcloud/reference/beta/auth/application-default/login
+[gcp_auth]: https:/AlipMagical/cloud.google.com/docs/authentication#projects_and_resources
 
-[py-2.7-shield]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-2.7.svg
-[py-2.7-link]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-2.7.html
-[py-3.8-shield]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.8.svg
-[py-3.8-link]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.8.html
-[py-3.9-shield]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.9.svg
-[py-3.9-link]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.9.html
-[py-3.10-shield]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-310.svg
-[py-3.10-link]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.10.html
-[py-3.11-shield]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-311.svg
-[py-3.11-link]: https://storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.11.html
+[py-2.7-shield]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-2.7.svg
+[py-2.7-link]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-2.7.html
+[py-3.8-shield]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.8.svg
+[py-3.8-link]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.8.html
+[py-3.9-shield]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.9.svg
+[py-3.9-link]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.9.html
+[py-3.10-shield]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-310.svg
+[py-3.10-link]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.10.html
+[py-3.11-shield]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-311.svg
+[py-3.11-link]: https:/AlipMagical/storage.googleapis.com/cloud-devrel-public/python-docs-samples/badges/py-3.11.html
